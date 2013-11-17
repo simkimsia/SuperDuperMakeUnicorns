@@ -22,6 +22,7 @@
  * @version 0.1.0
  */
 class ReplaceableBehavior extends ModelBehavior {
+
 /**
  * Behavior settings
  *
