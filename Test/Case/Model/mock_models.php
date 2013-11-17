@@ -36,21 +36,21 @@ class User extends CakeTestModel {
  *
  * @var string
  */
-  public $name = 'User';
+	public $name = 'User';
 
 /**
  * useTable property
  *
  * @var string
  */
-  public $useTable = 'users';
+	public $useTable = 'users';
 
 /**
  * displayField property
  *
  * @var string
  */
-  public $displayField = 'username';
+	public $displayField = 'username';
 }
 
 /**
@@ -65,12 +65,12 @@ class Group extends CakeTestModel {
  *
  * @var string
  */
-  public $name = 'Group';
+	public $name = 'Group';
 
 /**
  * useTable property
  *
  * @var string
  */
-  public $useTable = 'groups';
+	public $useTable = 'groups';
 }
